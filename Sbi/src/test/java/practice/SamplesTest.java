@@ -7,5 +7,6 @@ public class SamplesTest {
 	public void get() {
 		System.out.println("hello i am fine");
 	}
+	
 
 }
